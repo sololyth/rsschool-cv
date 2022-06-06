@@ -1,5 +1,5 @@
 # Elena Solomonova
-![avatar](https://avatars.githubusercontent.com/u/55525719?v=4 "Elena Solomonova avatar")
+
 ## Contacts
 * **Location**: Stavropol, Russia
 * **Email**: alenagrebenyuk@gmail.com
